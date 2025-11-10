@@ -1,6 +1,6 @@
 THE KING STEP
 
-<img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/0741e3d2-5d29-4d69-ab45-1fc4e397c76e" />
+<img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/0741e3d2-5d29-4d69-ab45-1fc4e397c76e" />
 
 1) there are 65536 threads each starts at random place of the specified range
 2) the last parameter specified THE SIZE OF THE STEP - its a 64 bit int, so try not to exceed it
