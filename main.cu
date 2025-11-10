@@ -490,7 +490,7 @@ int main(int argc, char* argv[]) {
         std::cerr << "  Note: Keys automatically wrap from max to min" << std::endl;
         return 1;
     }
-    int blocks = 4096;
+    int blocks = 256;
     int threads = 256;
     uint64_t step_size = std::stoull(argv[4]);
     int device_id = (argc > 5) ? std::stoi(argv[5]) : 0;
