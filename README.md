@@ -1,3 +1,5 @@
+THE KING STEP
+
 <img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/0741e3d2-5d29-4d69-ab45-1fc4e397c76e" />
 
 1) there are 1 million threads each starts at random place of the specified range
